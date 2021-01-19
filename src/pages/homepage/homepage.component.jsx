@@ -7,7 +7,7 @@ const HomePage = () => {
   return (
     <div className="homepage">
       <MetaTags>
-        <title>Page 1</title>
+        <title>Home page</title>
         <meta
           name="description"
           content="a shopping website created by Ali Bayatpour."
